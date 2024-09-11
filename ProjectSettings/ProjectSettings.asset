@@ -160,7 +160,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.GENEROSITY-task
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -583,7 +584,7 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: 
+  cameraUsageDescription: This app requires camera access to capture photos.
   locationUsageDescription: 
   microphoneUsageDescription: 
   bluetoothUsageDescription: 
