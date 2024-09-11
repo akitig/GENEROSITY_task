@@ -1,0 +1,52 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VSCode/JetBrains Rider auto create
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ビルドされたアセット
+*.apk
+*.aab
+*.unitypackage
+
+# 特定プラットフォームの出力ファイル
+*.app
+*.log
+*.ilk
+*.pdb
+*.idb
+*.lib
+*.exp
+*.exe
+*.dll
+*.db
+*.sqlite
+
+# その他
+.DS_Store
+UserSettings/
+*.swp
+*~
+
+# パッケージ管理
+Packages/manifest.json
+Packages/packages-lock.json
+
+
